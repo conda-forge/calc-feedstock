@@ -218,4 +218,6 @@ Feedstock Maintainers
 =====================
 
 * [@anderslindho](https://github.com/anderslindho/)
+* [@lucmaga](https://github.com/lucmaga/)
+* [@simon-ess](https://github.com/simon-ess/)
 
