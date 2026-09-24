@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "3.7.5"
+  version: "3-8"
 
 package:
   name: calc
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://github.com/epics-modules/calc/archive/refs/tags/R${{ version|replace('.', '-') }}.tar.gz
-  sha256: 5cf1a7b3d444e763eb96ca5b9cdbcb9c29f5a6f9ac2b8d9cdb17a007d3fa8347
+  sha256: 475a8480de4349eb07d5be6581cbfdbc05dc996dd733e38d5303b12089e9e813
 
 build:
   number: 0
